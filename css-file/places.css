@@ -14,7 +14,6 @@ header a {
 }
 header nav a:hover {
   background-color: rgba(69, 182, 190, 1);
-  color: rgba(99, 99, 99, 0.8);
 }
 main {
   margin-bottom: 44px;

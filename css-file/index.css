@@ -31,6 +31,7 @@
 }
 #main-sec-content a {
   text-decoration: none;
+  text-shadow: 0px 0px 10px rgba(131, 123, 123, 1);
   background-color: rgba(234, 247, 123, 0.85);
   padding: 12px 20px;
   color: black;
@@ -49,6 +50,7 @@
 #highlights {
   text-align: center;
   text-transform: uppercase;
+  text-shadow: 5px 5px 10px rgba(131, 123, 123, 1);
   font-size: 40px;
   color: rgba(53, 53, 53, 0.75);
   margin: -2px 0 24px 0;
